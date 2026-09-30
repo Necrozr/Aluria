@@ -1,4 +1,4 @@
-# TRU - Cognitive Architecture (Non-Transformer GWT/RIMs)
+# Aluria / TRU - Cognitive Architecture (Non-Transformer GWT/RIMs)
 
 Implementação do **TRU-Net v2** — uma arquitetura de múltiplos estados privados viscosos em paralelo com canais de comunicação limitada, integrador de espaço global (Global Workspace Theory) e memória episódica.
 
